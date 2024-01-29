@@ -1,0 +1,33 @@
+@charset "windows-1251";
+
+div
+{
+    border: 1px solid black;
+    width: 400px;
+    height: 315px;
+}
+
+#head
+{
+    font-size: 19px;
+    text-align: center;
+    padding-left: 120px;
+}
+
+#list
+{
+    margin-left: -15px;
+    font-size: 17px;
+}
+
+#list2
+{
+    margin-left: -16px;
+}
+
+li
+{
+    margin-left: 25px;
+    list-style: none;
+    font-style: italic;
+}

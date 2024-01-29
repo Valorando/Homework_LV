@@ -1,0 +1,32 @@
+@charset "windows-1251";
+
+body
+{
+    color: rgb(97, 92, 92);
+    font-size: 18px;
+}
+
+p
+{
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+#none
+{
+    list-style: none;
+    margin-left: -50px;
+}
+
+#violet
+{
+    color: rgb(118, 73, 160);
+    font-weight: bold;
+}
+
+#violet_u
+{
+    color: rgb(118, 73, 160);
+    text-decoration: underline;
+    font-weight: bold;
+}
